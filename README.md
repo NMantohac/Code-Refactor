@@ -27,7 +27,7 @@ Challenges:
     
 Screenshot:
   - GitHub Pages Link: 1) https://puu.sh/FmEHw/3598494cae.jpg | 2) https://puu.sh/FmEHK/602696ba75.png | 
-                     3) https://puu.sh/FmEI4/29937b1216.png
+                       3) https://puu.sh/FmEI4/29937b1216.png
     (Note: the social media marketing image does not appear on my laptop screen, but it should work for others!)
-  - Local (Alt + B in VS Code: 1) https://puu.sh/FmEEo/b3df0610a4.jpg | 2) https://puu.sh/FmEF2/3833820cc9.png |
-                             3) https://puu.sh/FmEFJ/e1c44f5b90.png
+  - Local (Alt + B in VS Code): 1) https://puu.sh/FmEEo/b3df0610a4.jpg | 2) https://puu.sh/FmEF2/3833820cc9.png |
+                                3) https://puu.sh/FmEFJ/e1c44f5b90.png
