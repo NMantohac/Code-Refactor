@@ -1,8 +1,8 @@
 # Homework_1
 
 URL Links:
-  1) https://github.com/NMantohac/Homework_1
-  2) https://nmantohac.github.io/Homework_1/
+  1) https://github.com/NMantohac/Homework_1_Code_Refactor
+  2) https://nmantohac.github.io/Homework_1_Code_Refactor/
 
 Description:
   - This code refactoring homework was to essentially clean up an example website page's code in both HTML and CSS, so it's more 
